@@ -1,6 +1,6 @@
 # Stock-Prediction-using-LSTM
  * Created a webApp using streamlit where stock ticker is entered and data is fetched from Yahoo Finance.
- * By default the stock is TESLA (TSLA)</br>
+    By default the stock is TESLA (TSLA)</br>
  
  * Stock data is fetched is from the years of 2019 to 2023</br>
  
