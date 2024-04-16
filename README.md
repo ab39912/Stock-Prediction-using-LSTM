@@ -17,5 +17,17 @@
 * Final Graphs shows Predictions vs Orignal</br>
  ![](screenshots/final.png)</br>
  
- 
+   ## Technologies used<br/>
+* Python 
+* Juypter Notebook
 
+
+   ## Libraries used<br/>
+* Numpy
+* Pandas
+* Matplotlib
+* Pandas_datareader
+* YFinance
+* TensorFlow
+* Keras
+* Streamlit
